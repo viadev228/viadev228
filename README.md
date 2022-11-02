@@ -1,4 +1,4 @@
-### RE User, Python dev.
+### RE User, C# & Py dev.
 
 ![viamane's GitHub stats](https://github-readme-stats.vercel.app/api?username=viamane&layout=compact&langs_count=7&theme=dracula)
 
